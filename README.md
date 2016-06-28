@@ -28,3 +28,7 @@ following R packages: ggplot2,doBy,rgl,scatterplot3d,minpack.lm,akima
 Figures showing the memory and time usage as a funtion of fixed and moving resolution.
 
 Non-linear fits of memory and walltime for use in registration prediction for clusters.
+
+# Results
+
+You can find results in [Rplots.pdf](Rplots.pdf)
